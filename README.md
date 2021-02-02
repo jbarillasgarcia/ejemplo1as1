@@ -2,4 +2,4 @@
 Ejemplo 1 para el curso de Análisis de Sistemas 1
 
 
-Fecha: 01/02/2021
+Fecha: Primero de febrero de 2021
